@@ -38,6 +38,6 @@ company's business performance.
 ### Team Members
 - [@praveeshagongura](https://github.com/praveeshagongura) - **Praveesha Gongura**
 - [@saikarthiksk](https://github.com/saikarthiksk) - **Sai Karthik**
-- [@shreeram](https://github.com/shreeram) - **Shree Ram**
+- [@shreeram](https://github.com/shreeram-hub) - **Shree Ram**
 - [@tharunsathu](https://github.com/tharunsathu) - **Tharun Sathu**
 
